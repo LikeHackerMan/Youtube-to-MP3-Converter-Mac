@@ -14,7 +14,7 @@ def download_video(url, output_folder, audio_quality):
     ydl_opts = {
         'format': 'bestaudio/best',
         'outtmpl': f'{output_folder}/%(title)s.%(ext)s',
-        'ffmpeg_location': '/opt/homebrew/bin/ffmpeg',  # Specify the path to ffmpeg here
+        'ffmpeg_location': '',  # Specify the path to ffmpeg here
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'mp3',
