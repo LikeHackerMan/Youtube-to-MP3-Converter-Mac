@@ -25,4 +25,4 @@ UPDATE: Windows version coming soon
 
 Feel free to make a Bug report and I will try my best to resolve the issue
 
-Feel free to make any suggestions and I will take them in consideration
+Feel free to make any suggestions and I will take them into consideration
