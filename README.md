@@ -23,9 +23,7 @@ which ffmpeg
 - Can download from Youtube or Youtube Music
 - Can download single files or Playlists into one folder
 
-NOTE: The section where it says to Enter File Name, you do not need to enter the file name since it doesn't work.
-
-UPDATE: Windows version coming soon
+NOTE: The section where it says to Enter File Name, you do not need to enter the file name since it doesn't work, because it automatically sets the name for you.
 
 # Bugs and Suggestions
 
