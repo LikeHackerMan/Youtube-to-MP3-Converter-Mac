@@ -16,6 +16,12 @@ pip install yt_dlp
 ```
 which ffmpeg
 ```
+# Features
+
+- Uses FFMPEG to download the highest bitrate
+- Can choose the preferred bit-rate
+- Can download from Youtube or Youtube Music
+- Can download single files or Playlists into one folder
 
 NOTE: The section where it says to Enter File Name, you do not need to enter the file name since it doesn't work.
 
@@ -26,3 +32,7 @@ UPDATE: Windows version coming soon
 Feel free to make a Bug report and I will try my best to resolve the issue
 
 Feel free to make any suggestions and I will take them into consideration
+
+# Known Bugs
+
+- After downloading it will say that it failed to download the songs even though all song/s have been downloaded successfully
