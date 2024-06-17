@@ -20,3 +20,9 @@ which ffmpeg
 NOTE: The section where it says to Enter File Name, you do not need to enter the file name since it doesn't work.
 
 UPDATE: Windows version coming soon
+
+# Bugs and Suggestions
+
+Feel free to make a Bug report and I will try my best to resolve the issue
+
+Feel free to make any suggestions and I will take them in consideration
